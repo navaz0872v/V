@@ -25,7 +25,7 @@ KEY_FILE = "keys.json"
 record_command_logs = "some text"
 string_variable = "some text"  # ✅ This won't cause conflicts
 
-MAX_ATTACK_TIME = 300 # Example: Default maximum attack time set to 300 seconds
+MAX_ATTACK_TIME = 120 # Example: Default maximum attack time set to 120 seconds
 
 # In-memory storage
 users = {}
